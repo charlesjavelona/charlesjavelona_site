@@ -116,7 +116,7 @@ export default function Page() {
               <h2 className="text-sm font-mono text-muted-foreground">READING:</h2>
               <div className="text-lg">
                 <p className="font-mono">
-                  <Link href="#" className="text-primary hover:underline transition-colors duration-200">"AI Engineering by Chip Huyen" & "Infrastructure as Code" by Kief Morris</Link>
+                  <Link href="#" className="text-primary hover:underline transition-colors duration-200">&ldquo;AI Engineering by Chip Huyen&rdquo; & &ldquo;Infrastructure as Code&rdquo; by Kief Morris</Link>
                 </p>
               </div>
             </div>
