@@ -55,12 +55,12 @@ export default function Page() {
               <NavigationMenuList>
                 <NavigationMenuItem>
                   <Button variant="ghost" size="sm" className="font-mono" asChild>
-                    <Link href="/work">WORK</Link>
+                    <Link href="#">WORK</Link>
                   </Button>
                 </NavigationMenuItem>
                 <NavigationMenuItem>
                   <Button variant="ghost" size="sm" className="font-mono" asChild>
-                    <Link href="/about">ABOUT</Link>
+                    <Link href="#">ABOUT</Link>
                   </Button>
                 </NavigationMenuItem>
                 <NavigationMenuItem>
@@ -70,7 +70,17 @@ export default function Page() {
                 </NavigationMenuItem>
                 <NavigationMenuItem>
                   <Button variant="ghost" size="sm" className="font-mono" asChild>
-                    <Link href="https://github.com">GITHUB</Link>
+                    <Link href="#">GITHUB</Link>
+                  </Button>
+                </NavigationMenuItem>
+                <NavigationMenuItem>
+                  <Button variant="ghost" size="sm" className="font-mono" asChild>
+                    <Link href="#">BLOG</Link>
+                  </Button>
+                </NavigationMenuItem>
+                <NavigationMenuItem>
+                  <Button variant="ghost" size="sm" className="font-mono" asChild>
+                    <Link href="#">EXPERIMENTS & PROJECTS</Link>
                   </Button>
                 </NavigationMenuItem>
               </NavigationMenuList>
