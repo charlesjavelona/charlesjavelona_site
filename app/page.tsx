@@ -22,11 +22,10 @@ export default function Page() {
   }, []);
 
   const navigationItems = [
-    { label: "ABOUT", href: "/" },
     { label: "TWITTER", href: "https://twitter.com/charlesjavelona" },
     { label: "GITHUB", href: "https://github.com/charlesjavelona" },
-    { label: "BLOG", href: "/posts" },
-    { label: "EXPERIMENTS & PROJECTS", href: "/projects" }
+    { label: "POSTS", href: "/posts" },
+    { label: "EXPERIMENTS & PROJECTS", href: "/#" }
   ];
 
   return (
