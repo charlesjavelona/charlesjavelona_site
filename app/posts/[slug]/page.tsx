@@ -1,6 +1,6 @@
 // app/blog/[slug]/page.tsx
 import { getMarkdownContent } from '@/lib/markdown';
-
+import Link from 'next/link';
 export default function BlogPost({ params }: { params: { slug: string } }) {
   const post = getMarkdownContent(`${params.slug}.md`);
   
@@ -31,10 +31,10 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
           <aside className="w-48 flex-shrink-0">
             <nav className="sticky top-8">
               <ul className="space-y-1 text-sm">
-                <li><a href="/" className="text-blue-600 hover:underline">About</a></li>
-                <li><a href="/#" className="text-blue-600 hover:underline">Advice</a></li>
-                <li><a href="/posts" className="text-blue-600 hover:underline">Posts</a></li>
-                <li><a href="/bookshelf" className="text-blue-600 hover:underline">Bookshelf</a></li>
+                <li><Link href="/" className="text-blue-600 hover:underline">About</Link></li>
+                <li><Link href="/#" className="text-blue-600 hover:underline">Advice</Link></li>
+                <li><Link href="/posts" className="text-blue-600 hover:underline">Posts</Link></li>
+                <li><Link href="/bookshelf" className="text-blue-600 hover:underline">Bookshelf</Link></li>
               </ul>
             </nav>
           </aside>
