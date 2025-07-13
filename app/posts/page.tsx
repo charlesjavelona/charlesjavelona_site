@@ -63,10 +63,10 @@ export default function BlogIndex() {
           <aside className="w-48 flex-shrink-0">
             <nav className="sticky top-8">
               <ul className="space-y-1 text-sm">
-                <li><a href="/" className="text-blue-600 hover:underline">About</a></li>
-                <li><a href="/#" className="text-blue-600 hover:underline">Advice</a></li>
-                <li><a href="/posts" className="text-blue-600 hover:underline font-medium">Posts</a></li>
-                <li><a href="/#" className="text-blue-600 hover:underline">Bookshelf</a></li>
+                <li><Link href="/" className="text-blue-600 hover:underline">About</Link></li>
+                <li><Link href="/#" className="text-blue-600 hover:underline">Advice</Link></li>
+                <li><Link href="/posts" className="text-blue-600 hover:underline font-medium">Posts</Link></li>
+                <li><Link href="/bookshelf" className="text-blue-600 hover:underline">Bookshelf</Link></li>
               </ul>
             </nav>
           </aside>
