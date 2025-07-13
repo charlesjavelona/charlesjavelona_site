@@ -10,31 +10,35 @@ interface BlogPost {
   slug: string;
 }
 
-export function getMarkdownContent(filename: string): BlogPost {
+export async function getMarkdownContent(filename: string): Promise<BlogPost> {
   const filePath = path.join(process.cwd(), 'posts', filename);
   const fileContent = fs.readFileSync(filePath, 'utf8');
   
-  // Parse frontmatter
-  const frontmatterRegex = /^---\s*\n(.*?)\n---\s*\n(.*)/s;
+  // Parse frontmatter using [\s\S] for cross-version compatibility
+  const frontmatterRegex = /^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)/;
   const match = fileContent.match(frontmatterRegex);
   
-  let frontmatter: any = {};
+  const frontmatter: Record<string, string> = {};
   let content = fileContent;
   
   if (match) {
     const frontmatterString = match[1];
     content = match[2];
     
-    // Simple YAML parser for basic frontmatter
+    // Parse YAML-like frontmatter
     frontmatterString.split('\n').forEach(line => {
-      const [key, ...valueParts] = line.split(':');
-      if (key && valueParts.length) {
-        frontmatter[key.trim()] = valueParts.join(':').trim();
+      const colonIndex = line.indexOf(':');
+      if (colonIndex > 0) {
+        const key = line.slice(0, colonIndex).trim();
+        const value = line.slice(colonIndex + 1).trim();
+        if (key && value) {
+          frontmatter[key] = value;
+        }
       }
     });
   }
   
-  const htmlContent = marked(content);
+  const htmlContent = await marked(content);
   const slug = filename.replace('.md', '');
   
   return {
@@ -50,7 +54,8 @@ export function getAllMarkdownFiles(): string[] {
   return fs.readdirSync(contentDir).filter(file => file.endsWith('.md'));
 }
 
-export function getAllBlogPosts(): BlogPost[] {
+export async function getAllBlogPosts(): Promise<BlogPost[]> {
   const files = getAllMarkdownFiles();
-  return files.map(file => getMarkdownContent(file));
+  const posts = await Promise.all(files.map(file => getMarkdownContent(file)));
+  return posts;
 }

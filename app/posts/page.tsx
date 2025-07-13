@@ -2,12 +2,15 @@
 import { getAllBlogPosts } from '@/lib/markdown';
 import Link from 'next/link';
 
-export default function BlogIndex() {
-  const posts = getAllBlogPosts();
-  
-  // Sort posts by date (newest first)
-  const sortedPosts = posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
-  
+interface BlogPost {
+  title: string;
+  date: string;
+  content: string;
+  slug: string;
+}
+export default async function BlogIndex() {
+  const posts = await getAllBlogPosts();
+
   return (
     <div className="min-h-screen bg-white">
       <div className="max-w-6xl mx-auto px-4 py-8">
@@ -20,7 +23,7 @@ export default function BlogIndex() {
             </header>
             
             <div className="space-y-8">
-              {sortedPosts.map(post => (
+              {posts.map((post: BlogPost) => (
                 <article key={post.slug} className="border-b border-gray-100 pb-6 last:border-b-0">
                   <div className="flex items-start gap-4">
                     <time className="text-sm text-gray-500 font-mono min-w-[80px] mt-1">
@@ -54,9 +57,6 @@ export default function BlogIndex() {
               ))}
             </div>
             
-            {sortedPosts.length === 0 && (
-              <p className="text-gray-500 text-center py-12">No blog posts found.</p>
-            )}
           </main>
           
           {/* Sidebar */}
