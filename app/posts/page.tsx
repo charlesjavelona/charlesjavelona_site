@@ -1,4 +1,4 @@
-// app/blog/page.tsx
+// app/posts/page.tsx
 import { getAllBlogPosts } from '@/lib/markdown';
 import Link from 'next/link';
 
@@ -36,7 +36,7 @@ export default async function BlogIndex() {
                     <div className="flex-1">
                       <h2 className="text-lg font-normal mb-2">
                         <Link 
-                          href={`/blog/${post.slug}`} 
+                          href={`/posts/${post.slug}`} 
                           className="text-black hover:text-blue-600 transition-colors"
                         >
                           {post.title}

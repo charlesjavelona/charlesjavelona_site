@@ -40,6 +40,7 @@ export async function getMarkdownContent(filename: string): Promise<BlogPost> {
   
   const htmlContent = await marked(content);
   const slug = filename.replace('.md', '');
+  console.log(slug);
   
   return {
     title: frontmatter.title || slug,

@@ -6,6 +6,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
   const posts = await getAllBlogPosts();  // ← Add await
   const { slug } = await params;
   const post = posts.find(post => post.slug === slug);
+  console.log(post);
   return (
     <div className="min-h-screen bg-white">
       <div className="max-w-6xl mx-auto px-4 py-8">
@@ -33,7 +34,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               <ul className="space-y-1 text-sm">
                 <li><Link href="/" className="text-blue-600 hover:underline">About</Link></li>
                 <li><Link href="/#" className="text-blue-600 hover:underline">Advice</Link></li>
-                <li><Link href="/blog" className="text-blue-600 hover:underline">Blog</Link></li>
+                <li><Link href="/posts" className="text-blue-600 hover:underline">Posts</Link></li>
                 <li><Link href="/bookshelf" className="text-blue-600 hover:underline">Bookshelf</Link></li>
               </ul>
             </nav>
