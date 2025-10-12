@@ -81,6 +81,7 @@ Rags to riches. Starts low, rises, falls back down, then rises even higher than 
 
 <br/>
 
+```
 Fortune
    ↑
    |                                          •
@@ -98,6 +99,7 @@ Fortune
    └────────────────────────────────────────────────→ Time
    Poor    Things    Ball/   Midnight/  Found/    Royalty
            Improve   Magic   Loses It   Slipper
+```
 
 
 ## Examples:
