@@ -9,7 +9,7 @@ Stories stick. Facts fade. According to Kurt Vonnegut, every compelling story fo
 
 <br>
 
-# 1. Man in the hole**:
+# 1. Man in the hole:
 Things get worse, then better. Here are stories that depict "Man in the hole":
 
 <br>
@@ -34,11 +34,11 @@ Fortune
 ## Examples:
 
 
-- **Cast Away** - **Rise**: Normal life → **Fall**: Plane crash on island → **Rise**: Escapes and returns
+- **Cast Away** - **Flat**: Normal life → **Fall**: Plane crash on island → **Rise**: Escapes and returns
 
-- **Free Guy** - **Rise**: Happy NPC → **Fall**: Discovers he's about to be deleted → **Rise**: Becomes self-aware and earns freedom
+- **Free Guy** - **Flat**: Happy NPC → **Fall**: Discovers he's about to be deleted → **Rise**: Becomes self-aware and earns freedom
 
-- **Everything Everywhere All at Once** - **Rise**: Normal life doing taxes → **Fall**: Multiverse chaos → **Rise**: Saves multiverse and reconnects with family
+- **Everything Everywhere All at Once** - **Flat**: Normal life doing taxes → **Fall**: Multiverse chaos → **Rise**: Saves multiverse and reconnects with family
 
 
 <br/>
