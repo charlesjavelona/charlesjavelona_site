@@ -73,3 +73,38 @@ Fortune
 - **Mamma Mia!** - **Rise**: Sam arrives after 20 years, old chemistry returns → **Fall**: Painful memories resurface, resistance and anger → **Rise Higher**: Reconcile at wedding, finally together
 
 - **Spider-Man: Across the Spider-Verse** - **Rise**: Miles reconnects with Gwen, team-up goes great → **Fall**: Miguel and Spider-Society turn against him, Gwen betrays him → **Rise Higher**: Gwen's team rescues him, stronger bond formed
+
+<br/>
+
+# 3. Cinderella: 
+Rags to riches. Starts low, rises, falls back down, then rises even higher than before. Bad situation → things improve → setback/crisis → ultimate triumph
+
+<br/>
+
+Fortune
+   ↑
+   |                                          •
+   |                                       ╭─╯ Ultimate
+   |                                    ╭─╯   Triumph
+   |                                 ╭─╯
+   |                  ╭────╮      ╭─╯
+   |               ╭─╯      ╰╮ ╭─╯
+   |            ╭─╯           ╰─╯
+   |         ╭─╯            Crisis/
+   |  •─────╯               Setback
+   | Bad
+   | Start
+   |
+   └────────────────────────────────────────────────→ Time
+   Poor    Things    Ball/   Midnight/  Found/    Royalty
+           Improve   Magic   Loses It   Slipper
+
+
+## Examples:
+
+**Tetris** - Start Low: Henk Rogers struggling game designer in debt → Rise: Discovers Tetris, starts licensing deals → Fall: Soviet bureaucracy blocks him, Nintendo deal collapses, facing legal battles → Rise Higher: Secures worldwide rights, Tetris becomes global phenomenon
+
+**The Founder** - Start Low: Ray Kroc failing milkshake machine salesman → Rise: Partners with McDonald brothers, starts franchising → Fall: Brothers resist expansion, relationship deteriorates → Rise Higher: Buys them out, builds McDonald's empire
+
+**Moneyball** - Start Low: Oakland A's underfunded, losing star players → Rise: Billy Beane uses data analytics, 20-game winning streak → Fall: Playoff collapse, traditional scouts mock approach → Rise Higher: Analytics revolutionizes baseball forever, approach adopted league-wide
+
