@@ -9,7 +9,7 @@ Stories stick. Facts fade. According to Kurt Vonnegut, every compelling story fo
 
 <br>
 
-# 1. Man in the hole:
+<h1> 1. Man in the hole:</h1>
 Things get worse, then better. Here are stories that depict "Man in the hole":
 
 <br>
@@ -31,7 +31,7 @@ Fortune
 ```
 <br>
 
-## Examples:
+<h2>Examples:</h2>
 
 
 - **Cast Away** - **Flat**: Normal life → **Fall**: Plane crash on island → **Rise**: Escapes and returns
