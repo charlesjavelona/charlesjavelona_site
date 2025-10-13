@@ -304,7 +304,7 @@ Fortune
 - **The Big Short** - Start: Michael Burry working hedge fund manager → Fall: Investors think he's insane betting against housing market, revolt against him → Nadir: Losing massive money, being sued → Rise: Market crashes, proven spectacularly right, makes fortune
 - **Oppenheimer** - Start: Leading Manhattan Project, hero → Fall: Security clearance revoked, accused of disloyalty, public humiliation → Nadir: Discredited, blacklisted → Rise: Vindicated decades later, recognized for warning about nuclear dangers
 
-
+<br/>
 ---
 
 **A Note on Pattern #9:**
