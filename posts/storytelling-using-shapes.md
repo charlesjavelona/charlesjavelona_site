@@ -204,6 +204,14 @@ Fortune
    └────────────────────────────────────────────────→ Time
 ```
 
+<br/>
+
+**Examples:**
+- **Breaking Bad** - Start: Walter has cancer diagnosis → Fall: Enters meth business, violence escalates → Rise: Empire built, money secured → Fall Worse: Family destroyed, dies alone, everything lost
+- **The Irishman** - Start: Frank working as truck driver → Fall: Becomes mob hitman, kills friend Hoffa → Rise: Protected by mob, living comfortably → Fall Worse: Everyone dead or in prison, dies alone with regrets
+- **Nightcrawler** - Start: Lou struggling for work → Fall: Enters unethical crime journalism → Rise: Business grows, getting what he wants → Fall Worse: Becomes complete sociopath, accomplice dead, humanity lost
+
+
 **7. Creation Story:**
 Things keep getting better and better. A steady rise. A straight line going up.
 
@@ -235,3 +243,32 @@ Fortune
 **Erin Brockovich** - Start: Single mom struggling financially → Rise: Gets clerk job → Rise Continues: Uncovers water contamination → Rise Higher: Wins $333M case, becomes hero
 **Hidden Figures** - Start: Black women computers at NASA facing discrimination → Rise: Katherine proves her math skills → Rise Continues: Overcomes segregation barriers → Rise Higher: Critical to space program success
 **The Pursuit of Happyness** - Start: Chris homeless with son → Rise: Gets unpaid internship → Rise Continues: Works harder than everyone → Rise Higher: Gets the job, builds better life
+
+<br/>
+
+**8. Which Way is Up(Kafka)**
+There are rise and falls - but unclear outcome.
+A line that goes up and down and no clear end.
+
+<br/>
+
+```
+Fortune
+   ↑
+   |         ╭─╮     ╭╮    ╭─╮
+   |      ╭─╯   ╰─╮╭─╯╰─╮╭─╯ ╰─╮
+   |  •──╯         ╰╯     ╰╯     ╰──•
+   |                              
+   | Good or Bad?              Uncertain
+   |
+   └────────────────────────────────────────────────→ Time
+```
+
+<br/>
+
+
+**Examples:**
+
+- **Wicked** - Start Low: Elphaba arrives as outcast → Rise: Befriends Glinda, gains acceptance, goes to Oz → Fall: Discovers Wizard's corruption, branded "Wicked Witch," becomes fugitive → Unclear: Is she worse off (hunted, vilified) or better off (integrity, truth, real identity)?
+- **The Lobster** - Start: David must find love or become animal → Ambiguous: Escapes to loners, situation unclear if better → Rise?: Develops relationship → Unclear End: Does he blind himself? What happens? No resolution
+- **Inception** - Start: Cobb wants to get home to kids → Rise: Mission progressing through dream layers → Ambiguous: Reality vs dreams constantly blurred → Unclear End: Is the top still spinning? Is he home or dreaming? No answer
