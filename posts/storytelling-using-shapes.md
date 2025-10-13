@@ -211,6 +211,7 @@ Fortune
 - **The Irishman** - Start: Frank working as truck driver → Fall: Becomes mob hitman, kills friend Hoffa → Rise: Protected by mob, living comfortably → Fall Worse: Everyone dead or in prison, dies alone with regrets
 - **Nightcrawler** - Start: Lou struggling for work → Fall: Enters unethical crime journalism → Rise: Business grows, getting what he wants → Fall Worse: Becomes complete sociopath, accomplice dead, humanity lost
 
+<br/>
 
 **7. Creation Story:**
 Things keep getting better and better. A steady rise. A straight line going up.
@@ -240,9 +241,9 @@ Fortune
 
 **Examples:**
 
-**Erin Brockovich** - Start: Single mom struggling financially → Rise: Gets clerk job → Rise Continues: Uncovers water contamination → Rise Higher: Wins $333M case, becomes hero
-**Hidden Figures** - Start: Black women computers at NASA facing discrimination → Rise: Katherine proves her math skills → Rise Continues: Overcomes segregation barriers → Rise Higher: Critical to space program success
-**The Pursuit of Happyness** - Start: Chris homeless with son → Rise: Gets unpaid internship → Rise Continues: Works harder than everyone → Rise Higher: Gets the job, builds better life
+- **Erin Brockovich** - Start: Single mom struggling financially → Rise: Gets clerk job → Rise Continues: Uncovers water contamination → Rise Higher: Wins $333M case, becomes hero
+- **Hidden Figures** - Start: Black women computers at NASA facing discrimination → Rise: Katherine proves her math skills → Rise Continues: Overcomes segregation barriers → Rise Higher: Critical to space program success
+- **The Pursuit of Happyness** - Start: Chris homeless with son → Rise: Gets unpaid internship → Rise Continues: Works harder than everyone → Rise Higher: Gets the job, builds better life
 
 <br/>
 
@@ -272,3 +273,46 @@ Fortune
 - **Wicked** - Start Low: Elphaba arrives as outcast → Rise: Befriends Glinda, gains acceptance, goes to Oz → Fall: Discovers Wizard's corruption, branded "Wicked Witch," becomes fugitive → Unclear: Is she worse off (hunted, vilified) or better off (integrity, truth, real identity)?
 - **The Lobster** - Start: David must find love or become animal → Ambiguous: Escapes to loners, situation unclear if better → Rise?: Develops relationship → Unclear End: Does he blind himself? What happens? No resolution
 - **Inception** - Start: Cobb wants to get home to kids → Rise: Mission progressing through dream layers → Ambiguous: Reality vs dreams constantly blurred → Unclear End: Is the top still spinning? Is he home or dreaming? No answer
+
+<br/>
+
+**9. Scapegoat and Resurrection (New Testament):**
+Part of the community, becomes the scapegoat and cast out, then vindicated and rises. The line starts flat, falls(scapegoat), rise(vindication/ressurection)
+
+```
+Fortune
+   ↑
+   |                                    ╭────•
+   |                                 ╭─╯  Vindication/
+   |                              ╭─╯     Resurrection
+   |  •─────╮                  ╭─╯
+   | Start   ╰╮             ╭─╯
+   |           ╰╮         ╭─╯
+   |             ╰╮     ╭─╯
+   |               ╰╮ ╭─╯
+   |                 ╰─•
+   |              Cast Out/
+   |              Scapegoated
+   |
+   └────────────────────────────────────────────────→ Time
+```
+<br/>
+
+**Examples:**
+
+- **Steve Jobs** - Start: Co-founded Apple, successful → Fall: Cast out by his own board, exiled from company → Nadir: Running NeXT, considered a failure → Rise: Returns to Apple, saves company, becomes icon
+- **The Big Short** - Start: Michael Burry working hedge fund manager → Fall: Investors think he's insane betting against housing market, revolt against him → Nadir: Losing massive money, being sued → Rise: Market crashes, proven spectacularly right, makes fortune
+- **Oppenheimer** - Start: Leading Manhattan Project, hero → Fall: Security clearance revoked, accused of disloyalty, public humiliation → Nadir: Discredited, blacklisted → Rise: Vindicated decades later, recognized for warning about nuclear dangers
+
+
+---
+
+**A Note on Pattern #9:**
+
+You might notice that "Scapegoat and Resurrection" has the same shape as "Man in the Hole" - both follow a Start → Fall → Rise pattern. So why include it separately?
+
+The difference isn't in the shape, but in the **mechanism and meaning**. While Man in the Hole involves circumstantial falls (plane crashes, external crises), the Scapegoat pattern specifically involves social expulsion and vindication. As Peter Thiel and René Girard point out, this is one of the most powerful narratives in human culture - someone is blamed, cast out, then proven right.
+
+For founders and tech people especially, this pattern resonates deeply: the contrarian who's mocked then vindicated, the whistleblower who's fired then proven right, the ousted founder who returns to save the company. The scapegoat mechanism is so prevalent in Silicon Valley culture that it deserves recognition as its own narrative, even if the underlying arc is structurally similar.
+
+Think of it as Man in the Hole with a specific social context that makes it particularly relevant to understanding tech and startup stories.
