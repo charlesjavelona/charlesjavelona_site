@@ -7,12 +7,12 @@ tag: story
 Which do you remember better - a person's story or their résumé? 
 Stories stick. Facts fade. According to Kurt Vonnegut, every compelling story follows one of eight emotional arcs. Let's explore each shape with examples and illustrations.
 
-<br>
+<br/>
 
-<h1> 1. Man in the hole:</h1>
-Things get worse, then better. Here are stories that depict "Man in the hole":
+<h1>1. Man in the hole:</h1>
+Everything is normal, then things get worse, then better. Here are stories that depict "Man in the hole":
 
-<br>
+<br/>
 
 ```
 Fortune
@@ -100,7 +100,7 @@ Fortune
    Poor    Things    Ball/   Midnight/  Found/    Royalty
            Improve   Magic   Loses It   Slipper
 ```
-
+<br/>
 
 ## Examples:
 
