@@ -203,3 +203,35 @@ Fortune
    |
    └────────────────────────────────────────────────→ Time
 ```
+
+**7. Creation Story:**
+Things keep getting better and better. A steady rise. A straight line going up.
+
+<br/>
+
+```
+Fortune
+   ↑
+   |                                          •
+   |                                       ╭─╯ Success
+   |                                    ╭─╯
+   |                                 ╭─╯
+   |                              ╭─╯
+   |                           ╭─╯
+   |                        ╭─╯
+   |                     ╭─╯
+   |                  ╭─╯
+   |               ╭─╯
+   |  •───────────╯
+   | Start
+   |
+   └────────────────────────────────────────────────→ Time
+```
+
+<br/>
+
+**Examples:**
+
+**Erin Brockovich** - Start: Single mom struggling financially → Rise: Gets clerk job → Rise Continues: Uncovers water contamination → Rise Higher: Wins $333M case, becomes hero
+**Hidden Figures** - Start: Black women computers at NASA facing discrimination → Rise: Katherine proves her math skills → Rise Continues: Overcomes segregation barriers → Rise Higher: Critical to space program success
+**The Pursuit of Happyness** - Start: Chris homeless with son → Rise: Gets unpaid internship → Rise Continues: Works harder than everyone → Rise Higher: Gets the job, builds better life
