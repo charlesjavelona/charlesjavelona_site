@@ -145,3 +145,32 @@ Fortune
 - **Uncut Gems** - Start: Howard has jewelry business, manageable debts → Fall: Debts spiral, family leaves → Fall Continues: Every gamble makes it worse → End Low: Shot and killed
 - **Requiem for a Dream** - Start: Characters have normal lives with small vices → Fall: Drug addiction deepens → Fall Continues: Lives completely deteriorate → End Low: Hospitalization, imprisonment, psychosis
 - **Margin Call** - Start: Financial firm seems stable → Fall: Junior analyst discovers fatal portfolio problem → Fall Continues: Panic selling destroys company reputation → End Low: Firm damaged, careers ruined
+
+
+**5. Icarus:**
+Things keep getting better and better, then crash. Opposite of man in the hole.
+A straight line where things keep going up and ends badly.
+
+<br/>
+
+```
+Fortune
+   ↑
+   |                       •  Peak
+   |                    ╭─╯╰╮
+   |                 ╭─╯     ╰╮
+   |              ╭─╯           ╰╮
+   |           ╭─╯                ╰╮
+   |        ╭─╯                     ╰╮
+   |     ╭─╯                          ╰╮
+   |  •─╯                               ╰─•
+   | Start                              Crash
+   |
+   └────────────────────────────────────────────────→ Time
+```
+
+**Examples:**
+
+- **The Social Network** - Rise: Mark creates Facebook, explosive growth → Rise Continues: Becomes billionaire, platform dominates → Fall: Lawsuits from Eduardo and Winklevoss twins, loses all friendships, sits alone refreshing ex-girlfriend's profile
+- **Wolf of Wall Street** - Rise: Jordan Belfort starts brokerage, making millions → Rise Continues: Massive wealth, excess, living like a king → Fall: FBI investigation, arrested, loses everything, prison
+- **Steve Jobs** - Rise: Builds Apple, revolutionary products → Rise Continues: iPhone success, becomes tech icon → Fall: Health deteriorates, dies young despite all his success and wealth
