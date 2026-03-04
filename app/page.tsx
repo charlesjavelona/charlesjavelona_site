@@ -122,7 +122,7 @@ export default function Page() {
               <h2 className="text-xs font-mono text-muted-foreground/80 whitespace-nowrap">CURRENTLY:</h2>
               <div className="text-base sm:text-lg">
                 <p className="font-mono">
-                  Accelerating the development of AI at <Link href="#" className="text-primary hover:underline transition-colors">Cosmic</Link>
+                  Accelerating the adoption of AI at <Link href="#" className="text-primary hover:underline transition-colors">Sozo AI</Link>
                 </p>
               </div>
             </div>
@@ -143,8 +143,21 @@ export default function Page() {
               <div className="text-base sm:text-lg">
                 <p className="font-mono">
                   <Link href="#" className="text-primary hover:underline transition-colors duration-200">
-                    &ldquo;AI Engineering by Chip Huyen&rdquo; & &ldquo;Infrastructure as Code&rdquo; by Kief Morris
+                    Everything about KANS and how the brain works
                   </Link>
+                </p>
+              </div>
+            </div>
+
+            {/* Independent Research */}
+            <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-6">
+              <h2 className="text-xs font-mono text-muted-foreground/80 whitespace-nowrap">INDEPENDENT RESEARCH:</h2>
+              <div className="text-base sm:text-lg">
+                <p className="font-mono">
+                  <Link href="#" className="text-primary hover:underline transition-colors duration-200">
+                    Can We Learn Depth from Images Using KANs
+                  </Link>{" "}
+                  <span className="text-xs text-muted-foreground">(WIP)</span>
                 </p>
               </div>
             </div>
