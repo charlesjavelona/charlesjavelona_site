@@ -119,7 +119,7 @@ export default function Page() {
           <section className="mb-16 sm:mb-24 space-y-6 sm:space-y-8">
             {/* Currently */}
             <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-6">
-              <h2 className="text-xs font-mono text-muted-foreground/80 whitespace-nowrap">CURRENTLY:</h2>
+              <h2 className="text-xs font-mono text-muted-foreground/80 whitespace-nowrap sm:w-48">CURRENTLY:</h2>
               <div className="text-base sm:text-lg">
                 <p className="font-mono">
                   Accelerating the adoption of AI at <Link href="#" className="text-primary hover:underline transition-colors">Sozo AI</Link>
@@ -129,7 +129,7 @@ export default function Page() {
 
             {/* Past */}
             <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-6">
-              <h2 className="text-xs font-mono text-muted-foreground/80 whitespace-nowrap">PAST:</h2>
+              <h2 className="text-xs font-mono text-muted-foreground/80 whitespace-nowrap sm:w-48">PAST:</h2>
               <div className="text-base sm:text-lg">
                 <p className="font-mono">
                   Accelerated robot adoption at <Link href="#" className="text-primary hover:underline transition-colors duration-200">TinyMile Robotics</Link>
@@ -139,7 +139,7 @@ export default function Page() {
 
             {/* Reading */}
             <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-6">
-              <h2 className="text-xs font-mono text-muted-foreground/80 whitespace-nowrap">READING:</h2>
+              <h2 className="text-xs font-mono text-muted-foreground/80 whitespace-nowrap sm:w-48">READING:</h2>
               <div className="text-base sm:text-lg">
                 <p className="font-mono">
                   <Link href="#" className="text-primary hover:underline transition-colors duration-200">
@@ -151,13 +151,14 @@ export default function Page() {
 
             {/* Independent Research */}
             <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-6">
-              <h2 className="text-xs font-mono text-muted-foreground/80 whitespace-nowrap">INDEPENDENT RESEARCH:</h2>
+              <h2 className="text-xs font-mono text-muted-foreground/80 whitespace-nowrap sm:w-48">INDEPENDENT RESEARCH:</h2>
               <div className="text-base sm:text-lg">
                 <p className="font-mono">
                   <Link href="#" className="text-primary hover:underline transition-colors duration-200">
                     Can We Learn Depth from Images Using KANs
                   </Link>{" "}
                   <span className="text-xs text-muted-foreground">(WIP)</span>
+                  <span className="text-sm text-muted-foreground"> — with <Link href="https://www.linkedin.com/in/mathew-vanherreweghe/" className="text-primary hover:underline transition-colors duration-200">Mathew Vanherreweghe</Link></span>
                 </p>
               </div>
             </div>
