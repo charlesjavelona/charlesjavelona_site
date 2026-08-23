@@ -119,3 +119,31 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Prose heading styling */
+.prose h2 {
+  @apply text-xl font-bold mt-12 mb-6;
+}
+.prose hr {
+  @apply hidden;
+}
+.prose h3 {
+  @apply text-base font-semibold mt-8 mb-4;
+}
+
+/* Prose table styling */
+.prose table {
+  @apply w-full text-sm border-collapse;
+}
+.prose thead th {
+  @apply text-left font-semibold text-xs uppercase tracking-wider text-muted-foreground pb-2 border-b border-border;
+}
+.prose tbody td {
+  @apply py-3 pr-4 border-b border-border align-top;
+}
+.prose tbody tr:last-child td {
+  @apply border-b-0;
+}
+.prose .table-wrapper {
+  @apply overflow-x-auto -mx-4 px-4;
+}
