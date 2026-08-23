@@ -8,6 +8,7 @@ interface BlogPost {
   date: string;
   content: string;
   slug: string;
+  draft: boolean;
 }
 
 export async function getMarkdownContent(filename: string): Promise<BlogPost> {
@@ -46,7 +47,8 @@ export async function getMarkdownContent(filename: string): Promise<BlogPost> {
     title: frontmatter.title || slug,
     date: frontmatter.date || new Date().toISOString().split('T')[0],
     content: htmlContent,
-    slug
+    slug,
+    draft: frontmatter.draft === 'true',
   };
 }
 
@@ -58,5 +60,6 @@ export function getAllMarkdownFiles(): string[] {
 export async function getAllBlogPosts(): Promise<BlogPost[]> {
   const files = getAllMarkdownFiles();
   const posts = await Promise.all(files.map(file => getMarkdownContent(file)));
-  return posts;
+  const isDev = process.env.NODE_ENV === 'development';
+  return posts.filter(post => isDev || !post.draft);
 }

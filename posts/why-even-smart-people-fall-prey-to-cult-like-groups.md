@@ -1,6 +1,8 @@
 ---
 title: Why Even Smart People Fall Prey To Cult Like Groups(WIP)
 date: 2025-07-12
+tag: cult
+draft: true
 ---
 
 Elite education promises to impart critical thinking, and we blindly assume graduates are immune to manipulation. 
@@ -20,3 +22,6 @@ Thesis Option C - Modern Sophistication Problem:
 "Cult-like groups have evolved beyond traditional tactics to exploit the specific weaknesses of educated professionals."
 Thesis Option D - Pattern Recognition Problem:
 "Smart people are trained to find patterns, but cults provide compelling false patterns that feel logical."
+
+
+Ref: https://claude.ai/chat/74793907-95b1-4edd-84e6-e2e0dfb77329
